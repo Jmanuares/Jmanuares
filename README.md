@@ -2,8 +2,7 @@
 - 👀 I’m interested in being my own boss
 - 🌱 I’m currently learning CS50x
 - 💞️ I’m looking to collaborate on galobponce´s projects
-- 📫 How to reach me = smoke signs
-
+- 📫 How to reach me 
 ![Galolindo](https://github.com/Jmanuares/Jmanuares/blob/main/coding.gif)
 
 
